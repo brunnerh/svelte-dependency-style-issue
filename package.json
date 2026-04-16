@@ -1,0 +1,17 @@
+{
+  "name": "svelte-dependency-style-issue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@svelte-dependency-style-issue/component-library": "file:dependency/svelte-dependency-style-issue-component-library-1.0.0.tgz",
+    "@sveltejs/vite-plugin-svelte": "^7.0.0",
+    "svelte": "^5.55.4",
+    "vite": "^8.0.8"
+  }
+}

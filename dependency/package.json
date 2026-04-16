@@ -1,0 +1,14 @@
+{
+	"name": "@svelte-dependency-style-issue/component-library",
+	"version": "1.0.0",
+	"private": "true",
+	"type": "module",
+	"dependencies": {},
+	"exports": {
+		".": {
+			"types": "./dist/index.d.ts",
+			"svelte": "./dist/index.js",
+			"default": "./dist/index.js"
+		}
+	}
+}
